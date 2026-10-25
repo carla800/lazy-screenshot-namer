@@ -1,0 +1,11 @@
+# Virtual environment and Python cache
+.venv/
+__pycache__/
+
+# Local outputs: renamed copies and rename log
+demo/
+rename_log.csv
+
+# Windows system files
+desktop.ini
+Thumbs.db

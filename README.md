@@ -12,16 +12,16 @@ Built for the [Hacktoberfest 2026 Open-Source AI Challenge, Week 3: Slow and Ste
 
 ![Screenshots after](docs/after.png)
 
-| Windows name | Suggested by Gemma 4 | My own name, chosen by hand |
-| --- | --- | --- |
-| Screenshot 2026-10-11 173802.png | sql-show-chunks.png | ghw-hypertable-show-chunks.png |
-| Screenshot 2026-10-11 174415.png | sql-time-bucket-devices.png | ghw-hypertable-time-bucket.png |
-| Screenshot 2026-10-15 140512.png | search-results-customer-orders.png | ghw-pgvector-ricerca.png |
-| Screenshot 2026-10-15 140748.png | sql-note-execution-result.png | ghw-pgvector-tabella.png |
-| Screenshot 2026-10-18 223001.png | teapot-inquiry-draft.png | demo-teapots.png |
-| Screenshot 2026-10-18 223612.png | customer-service-vase-replacement.png | demo-damaged.png |
-| Screenshot 2026-10-18 223740.png | customer-service-package-delay.png | demo-late.png |
-| Screenshot 2026-10-25 122211.png | **sensitive-**config-db-connection-vars.png | (a fake password, made for testing) |
+| Windows name                     | Suggested by Gemma 4                    | My own name, chosen by hand         |
+| -------------------------------- | --------------------------------------- | ----------------------------------- |
+| Screenshot 2026-10-11 173802.png | sql-show-chunks.png                     | ghw-hypertable-show-chunks.png      |
+| Screenshot 2026-10-11 174415.png | sql-time-bucket-devices.png             | ghw-hypertable-time-bucket.png      |
+| Screenshot 2026-10-15 140512.png | search-results-customer-orders.png      | ghw-pgvector-ricerca.png            |
+| Screenshot 2026-10-15 140748.png | sql-note-execution-result.png           | ghw-pgvector-tabella.png            |
+| Screenshot 2026-10-18 223001.png | teapot-inquiry-draft.png                | demo-teapots.png                    |
+| Screenshot 2026-10-18 223612.png | customer-service-vase-replacement.png   | demo-damaged.png                    |
+| Screenshot 2026-10-18 223740.png | customer-service-package-delay.png      | demo-late.png                       |
+| Screenshot 2026-10-25 122211.png | sensitive-config-db-connection-vars.png | (a fake password, made for testing) |
 
 ## How it works
 
